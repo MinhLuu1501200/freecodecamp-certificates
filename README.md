@@ -1,7 +1,7 @@
 Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 
 ## Purpose: 
-* Courses I completed in SoloLearn to supplement background knowledge on languages. 
+* Courses I completed in FreeCodeCamp to supplement background knowledge on languages. 
 
 ## Proof of completion (certificates)
 
