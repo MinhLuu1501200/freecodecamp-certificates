@@ -1,4 +1,4 @@
-Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
+Courses completed: HTML, CSS, JavaScript
 
 ## Purpose: 
 * Courses I completed in FreeCodeCamp to supplement background knowledge on languages. 
